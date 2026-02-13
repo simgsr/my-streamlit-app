@@ -5,7 +5,6 @@ from datetime import datetime
 
 print(f"🟢 Rerun at: {datetime.now()}")
 
-# DATA_PATH = "./data/resale_data.csv"
 DATA_PATH = "/Users/simgsr/Documents/GitHub/ntu lession/my-streamlit-app/data/resale_data_2017.csv"
 
 # df = pd.read_csv(DATA_PATH)

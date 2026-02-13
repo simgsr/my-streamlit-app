@@ -638,7 +638,7 @@ git commit -m "Initial commit"
 
 # Create a new repo on GitHub, then:
 git branch -M main
-git remote add origin https://github.com/username/repo.git
+git remote add origin https://github.com/simgsr/repo.git
 git push -u origin main
 ```
 
